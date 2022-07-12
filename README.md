@@ -1,4 +1,8 @@
-### Hi there 👋
+<p align="center">
+  <a href="https://github.com/josias-almeida">
+    <img width="100%" src="./header-image.png">
+  </a>
+</p>
 
 <!--
 **josias-almeida/josias-almeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
