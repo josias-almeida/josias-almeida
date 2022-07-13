@@ -6,6 +6,14 @@
 
 ![Josias's GitHub stats](https://github-readme-stats.vercel.app/api?username=josias-almeida&show_icons=true&theme=github_dark)
 
+## Tecnologias:
+<div style="display: inline_block"><br/>
+  <img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img align="center" alt="ArchWSL" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+  <img align="center" alt="postgresql" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+</div>
+
 <!--
 **josias-almeida/josias-almeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
