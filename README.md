@@ -6,7 +6,7 @@
 
 ![Josias's GitHub stats](https://github-readme-stats.vercel.app/api?username=josias-almeida&show_icons=true&theme=github_dark)
 
-## Technology:
+## Technologies:
 <div style="display: inline_block"><br/>
   <img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img align="center" alt="ArchWSL" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
