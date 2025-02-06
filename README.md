@@ -2,7 +2,6 @@
 
 <div style="display: inline_block"><br>
   <img align="center" height="40" width="50" alt="Arch" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg">
-  <img align="center" height="40" width="50" alt="Ubuntu" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg">
   <img align="center" height="40" width="50" alt="VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">  
   <img align="center" height="40" width="50" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"">
   <img align="center" height="40" width="50" alt="Jupyter" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg">
