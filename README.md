@@ -1,7 +1,6 @@
 <div align="center">
 
-# Olá, eu sou Josias Almeida 👋
-### 🚁 Agrimensura | Aerolevantamentos | Aerofotogrametria | Drones | Geoprocessamento
+# Agrimensura | Aerolevantamentos | Aerofotogrametria | Drones | Geoprocessamento
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/josias-almeida)
 [![Website](https://img.shields.io/badge/Website-Mapstation-2ea44f?style=for-the-badge&logo=google-maps&logoColor=white)](https://www.mapstation.com.br)
@@ -14,7 +13,7 @@
 
 ---
 
-### 🛰️ Sobre Mim
+### Sobre Mim
 
 - 📍 Atuação no **Brasil** 🇧🇷 na **[Mapstation LTDA](https://www.mapstation.com.br)**.
 - 📐 Especialista em **aerolevantamentos, agrimensura, aerofotogrametria com drones e geoprocessamento**.
