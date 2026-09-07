@@ -1,6 +1,6 @@
 <div align="center">
 
-# Agrimensura | Aerolevantamentos | Aerofotogrametria | Drones | Geoprocessamento
+# Aerolevantamentos | Aerofotogrametria | Geoprocessamento | Drones
 
 [![Mapstation](https://img.shields.io/badge/Mapstation-262626?style=for-the-badge&logo=google-maps&logoColor=f5b41e)](https://www.mapstation.com.br)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/josias-almeida)
