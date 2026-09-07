@@ -9,6 +9,10 @@
 
 > *"Concebendo ideias, planejando e construindo plataformas e ferramentas práticas para resolver os desafios do setor de aerolevantamentos e geotecnologias."*
 
+<br/>
+
+<img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Profile Contrib" width="95%" />
+
 </div>
 
 ---
@@ -55,12 +59,6 @@
 ---
 
 ### 📊 Atividade & Criação
-
-<div align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Profile Contrib" width="95%" />
-</div>
-
-<br/>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=josias-almeida&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="90%" />
