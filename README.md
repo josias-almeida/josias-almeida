@@ -37,9 +37,13 @@
 
 <div align="left">
 
-![Fotogrametria](https://img.shields.io/badge/Fotogrametria%20%26%20Mapeamento-007ACC?style=flat-square)
-![Agrimensura](https://img.shields.io/badge/Agrimensura%20%26%20Topografia-2E7D32?style=flat-square)
-![Sensoriamento Remoto](https://img.shields.io/badge/Sensoriamento%20Remoto-FF6F00?style=flat-square)
+![Aerolevantamentos](https://img.shields.io/badge/Aerolevantamentos-0277BD?style=flat-square)
+![Aerofotogrametria](https://img.shields.io/badge/Aerofotogrametria-3949AB?style=flat-square)
+![Geoprocessamento](https://img.shields.io/badge/Geoprocessamento-2E7D32?style=flat-square)
+![Sensoriamento Remoto](https://img.shields.io/badge/Sensoriamento%20Remoto-E65100?style=flat-square)
+![Geotecnologias](https://img.shields.io/badge/Geotecnologias-00695C?style=flat-square)
+![Mapeamento](https://img.shields.io/badge/Mapeamento-0097A7?style=flat-square)
+![Cartografia](https://img.shields.io/badge/Cartografia-7B1FA2?style=flat-square)
 
 </div>
 
