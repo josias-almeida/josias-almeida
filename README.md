@@ -45,7 +45,6 @@
 ![Fotogrametria](https://img.shields.io/badge/Fotogrametria%20%26%20Mapeamento-007ACC?style=flat-square)
 ![Agrimensura](https://img.shields.io/badge/Agrimensura%20%26%20Topografia-2E7D32?style=flat-square)
 ![Sensoriamento Remoto](https://img.shields.io/badge/Sensoriamento%20Remoto-FF6F00?style=flat-square)
-![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=flat-square&logo=google&logoColor=white)
 
 #### ⚙️ Criação de Softwares & Automações
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
