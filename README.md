@@ -35,23 +35,11 @@
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
-
 <div align="left">
 
-#### 🚁 Drones, Fotogrametria & GIS
-![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white)
-![Drones / VANT](https://img.shields.io/badge/Drones%20%2F%20VANT-000000?style=flat-square&logo=dji&logoColor=white)
 ![Fotogrametria](https://img.shields.io/badge/Fotogrametria%20%26%20Mapeamento-007ACC?style=flat-square)
 ![Agrimensura](https://img.shields.io/badge/Agrimensura%20%26%20Topografia-2E7D32?style=flat-square)
 ![Sensoriamento Remoto](https://img.shields.io/badge/Sensoriamento%20Remoto-FF6F00?style=flat-square)
-
-#### ⚙️ Criação de Softwares & Automações
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![GeoPandas / GDAL](https://img.shields.io/badge/GeoPandas%20%2F%20GDAL-139C5A?style=flat-square)
-![WebGIS & Dashboards](https://img.shields.io/badge/WebGIS%20%26%20Dashboards-199900?style=flat-square&logo=Leaflet&logoColor=white)
-![Bancos de Dados](https://img.shields.io/badge/PostGIS%20%2F%20PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Automação](https://img.shields.io/badge/Automação%20de%20Processos-E95420?style=flat-square)
 
 </div>
 
