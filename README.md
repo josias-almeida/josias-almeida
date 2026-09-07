@@ -13,7 +13,7 @@
 
 ---
 
-### Sobre Mim
+### 🛰️ Sobre Mim
 
 - 📍 Atuação no **Brasil** 🇧🇷 na **[Mapstation LTDA](https://www.mapstation.com.br)**.
 - 📐 Especialista em **aerolevantamentos, agrimensura, aerofotogrametria com drones e geoprocessamento**.
@@ -55,6 +55,12 @@
 ---
 
 ### 📊 Atividade & Criação
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Profile Contrib" width="95%" />
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=josias-almeida&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="90%" />
