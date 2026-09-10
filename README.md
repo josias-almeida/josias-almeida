@@ -1,5 +1,17 @@
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/josias-almeida/josias-almeida/main/dark_mode.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/josias-almeida/josias-almeida/main/light_mode.svg">
+  <img alt="GitHub stats" src="https://raw.githubusercontent.com/josias-almeida/josias-almeida/main/light_mode.svg">
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
 # Aerolevantamentos | Aerofotogrametria | Geoprocessamento | Geotecnologias | Drones
 
 [![Mapstation](https://img.shields.io/badge/Mapstation-262626?style=for-the-badge&logo=google-maps&logoColor=f5b41e)](https://www.mapstation.com.br)
