@@ -1,0 +1,50 @@
+{
+  "35087f4ae1bbc7d16dc085aa9dbe7389546757897ea8b09ba86ec48d2e6e34a5": {
+    "additions": 585175,
+    "deletions": 254,
+    "my_commits": 10,
+    "total_commits": 10
+  },
+  "4f391de1ffe886468dd851238418370bb35b0333e5240325210dfad5397532d0": {
+    "additions": 5654,
+    "deletions": 333,
+    "my_commits": 19,
+    "total_commits": 19
+  },
+  "542fd1ffb276e9defc4b3435acea749f781b2a6fd8e59e679ccaf2f2e55e95ad": {
+    "additions": 11549,
+    "deletions": 409,
+    "my_commits": 16,
+    "total_commits": 16
+  },
+  "557c66bf73c124faf48d49e76624a46914ad37a9d14fb35bdec3497291a1fd75": {
+    "additions": 18978,
+    "deletions": 2060,
+    "my_commits": 37,
+    "total_commits": 37
+  },
+  "68f0f3a70d23c8896fd6416da12a2d8ccb2b8a954ebaa3e18baa01db8e290851": {
+    "additions": 53557,
+    "deletions": 2234,
+    "my_commits": 45,
+    "total_commits": 45
+  },
+  "dc7155a9ed67e8325532d7c1f23519d42f966d8f34f06bec751ab80e60ed62f3": {
+    "additions": 6551,
+    "deletions": 778,
+    "my_commits": 20,
+    "total_commits": 20
+  },
+  "e57cf0a489141a6e6fd435db9c2b3e224c0d87c3391a24d0ce0fad9eeef8c55b": {
+    "additions": 877,
+    "deletions": 70,
+    "my_commits": 18,
+    "total_commits": 23
+  },
+  "fbe04f5ddefa05a108765f65ff4d3dacca3392b8a7785908a2d99ee7c449fb1e": {
+    "additions": 1370,
+    "deletions": 7,
+    "my_commits": 2,
+    "total_commits": 2
+  }
+}
