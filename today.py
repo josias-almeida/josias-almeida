@@ -31,7 +31,7 @@ SVG_NS = "http://www.w3.org/2000/svg"
 # Total characters (label + dots + value) every stat row must add up to.
 # The label text is read back from the SVG itself -- see update_svg() --
 # so this is the only width knob that lives in Python.
-ROW_WIDTH = 52
+ROW_WIDTH = 56
 
 MAX_RETRIES = 6
 INITIAL_BACKOFF_SECONDS = 2.0
