@@ -29,15 +29,6 @@
 
 ---
 
-### 🛰️ Sobre Mim
-
-- 📍 Atuação no **Brasil** 🇧🇷 na **[Mapstation LTDA](https://www.mapstation.com.br)**.
-- 📐 Especialista em **aerolevantamentos, agrimensura, aerofotogrametria com drones e geoprocessamento**.
-- 💡 **Inovação & Ferramentas:** Focado em identificar gargalos na rotina técnica, estruturar planos e criar plataformas, programas e automações que otimizam o processamento e a entrega de dados espaciais.
-- 🎯 União entre o conhecimento prático de campo/engenharia e a construção de soluções digitais eficientes.
-
----
-
 ### 🗺️ Áreas de Domínio & Atuação
 
 - **🚁 Aerolevantamento & Fotogrametria:** Planejamento e execução de voos com drones, geração de ortomosaicos, nuvens de pontos 3D, MDT e MDE.
