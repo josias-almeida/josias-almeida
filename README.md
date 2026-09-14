@@ -1,4 +1,4 @@
-# Aerolevantamentos | Aerofotogrametria | Geoprocessamento
+
 
 <div align="center">
 
