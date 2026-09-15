@@ -52,14 +52,6 @@
 
 ---
 
-### 📊 Atividade & Criação
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=josias-almeida&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="90%" />
-</div>
-
----
-
 <div align="center">
   <sub>Aerolevantamentos, Agrimensura e Soluções Tecnológicas para o setor Geoespacial.</sub>
 </div>
